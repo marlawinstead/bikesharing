@@ -6,7 +6,7 @@ Overview
 
 The purpose of this project is to assist a friend Kate, with creating a bikesharing company in De Moines, Iowa. Following a trip to New York City with Kate and using CitiBike for transportation and to explore the city inspired this idea. This presentation will serve as research and an analysis for an angel investor who make potentially back the company. The following results show data gathered from New York City and will attempt to determine how this company would translate to De Moines, Iowa.
 
-
+Follow along with the Tableau Presentation here [link to dashboard](https://public.tableau.com/app/profile/marla.winstead/viz/CitiBikeAnalysis_16550800797960/CitibikeAnalysis?publish=yes)
 
 Results
 
