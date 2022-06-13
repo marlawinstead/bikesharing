@@ -6,7 +6,7 @@ Overview
 
 The purpose of this project is to assist a friend Kate, with creating a bikesharing company in De Moines, Iowa. Following a trip to New York City with Kate and using CitiBike for transportation and to explore the city inspired this idea. This presentation will serve as research and an analysis for an angel investor who make potentially back the company. The following results show data gathered from New York City and will attempt to determine how this company would translate to De Moines, Iowa.
 
-**  **
+
 
 Results
 
@@ -53,5 +53,9 @@ The most common times to ride bikes are during sunlight hours, with noticeable s
 <img width="1024" alt="graph 7" src="https://user-images.githubusercontent.com/100978922/173259221-bfeee0a9-e06a-430f-a5d4-dcb1fc296594.png">
 
 Summary
+
+Based on the graphs shown above, we can conclude that the average customer was a male on his way home from work during the work week. A subscriber is more likely to use bikesharing than a one-time customer, and typical rides do not last more than an hour.
+
+One graph that would be important to showcase would be for the age of riders using the bikes. A graph that shows the average age of riders would be very useful data for this new bike company. Another graph to use would show the average income of each rider. By collecting data that includes both the age of riders and the income, we would be able to see which demographics are most likely to use bikesharing and therefore, which demographics to target for advertising. 
 
 
